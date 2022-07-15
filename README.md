@@ -8,7 +8,7 @@ Você pode ver o projeto atráves [desse link](https://moveit-dusky-iota.vercel.
 
 ## Vizualizar localmente
 
-Para vizualizar localmente primeiro você precisa:
+Para vizualizar localmente você precisa:
 
 ### Copiar o projeto
 
@@ -25,17 +25,10 @@ cd moveit
 ```
 yarn install
 ```
-ou
-```
-npm install
-```
+
 
 ### Rodar o projeto
 
 ```
 yarn dev
-```
-ou
-```
-npm dev
 ```
