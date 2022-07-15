@@ -1,5 +1,7 @@
 # moveit
 
+Uma gamificação no uso do pomodoro
+
 ## Vercel
 
 Você pode ver o projeto atráves [desse link](https://moveit-dusky-iota.vercel.app/)
