@@ -2,6 +2,11 @@
 
 Uma gamificação no uso do pomodoro
 
+## Tecnologias utilizadas
+
+* NextJs
+* SCSS
+
 ## Vercel
 
 Você pode ver o projeto atráves [desse link](https://moveit-dusky-iota.vercel.app/)
