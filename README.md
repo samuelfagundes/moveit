@@ -6,6 +6,7 @@ Uma gamificação no uso do pomodoro
 
 * NextJs
 * SCSS
+* Typescript
 
 ## Vercel
 
