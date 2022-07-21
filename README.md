@@ -5,7 +5,7 @@ Uma gamificação no uso do pomodoro
 ## Tecnologias utilizadas
 
 * NextJs
-* SCSS
+* SASS
 * Typescript
 
 ## Vercel
